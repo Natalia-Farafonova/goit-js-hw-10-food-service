@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://maks1988-88-88.github.io/goit-js-hw-10-food-service.git"
+    "url": "git+https://natalia-farafonova.github.io/goit-js-hw-10-food-service.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://maks1988-88-88.github.io/goit-js-hw-10-food-service/issues"
+    "url": "https://natalia-farafonova.github.io/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://maks1988-88-88.github.io/goit-js-hw-10-food-service",
+  "homepage": "https://natalia-farafonova.github.io/goit-js-hw-10-food-service",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
