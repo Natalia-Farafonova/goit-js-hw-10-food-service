@@ -8,7 +8,7 @@
 - При посещении рабочей страницы (GitHub Pages) задания, в консоли нету ошибок и
   предупреждений.
 - Имена переменных и функций понятные, описательные.
-- Проект собран с помощью `Webpack` или `Parceljs`.
+- Проект собран с помощью `Parcel`.
 - Код отформатирован `Prettier`.
 
 # Задание
@@ -18,8 +18,9 @@
 
 ![Превью страницы](preview.jpg)
 
-- Обязательно используй `Webpack` или `Parceljs` для сборки и деплоя (
-  [ссылка на готовую сборку Webpack](https://github.com/luxplanjay/webpack-starter-kit))
+- Обязательно используй
+  [parcel-project-template](https://github.com/goitacademy/parcel-project-template)
+  для сборки и деплоя проекта.
 - В папке [src](./src) ты найдешь стартовую разметку, стили и данные
 - Массив объектов блюд лежит в [menu.json](./src/menu.json)
 
